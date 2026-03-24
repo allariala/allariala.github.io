@@ -1,4 +1,4 @@
-<!-- ---
+---
 title: "제목"
 date: 2026-03-25 00:00:00 +0900
 categories: [메인, 하위]
@@ -8,7 +8,6 @@ comments: true
 math: true
 mermaid: false
 pin: false
-published: false
 ---
 
 # 수식
@@ -30,4 +29,4 @@ def hello():
 # 이미지
 ![대체텍스트](/assets/img/posts/example.png)
 _이미지 캡션은 이탤릭체로 이미지 바로 아래 작성_
-``` -->
+```
