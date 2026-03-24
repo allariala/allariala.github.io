@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "제목"
 date: 2026-03-25 00:00:00 +0900
 categories: [메인, 하위]
@@ -10,7 +10,7 @@ mermaid: false
 pin: false
 published: false
 ---
-<!-- 
+
 # 수식
 
 인라인: $f(x) = ax^2 + bx + c$
