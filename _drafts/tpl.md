@@ -1,6 +1,6 @@
 ---
 title: "제목"
-date: 2026-03-25 02:30:00 +0900
+date: 2026-03-25 00:00:00 +0900
 categories: [메인, 하위]
 tags: [tag1, tag2]
 toc: true
@@ -10,7 +10,7 @@ mermaid: false
 pin: false
 published: false
 ---
-
+<!-- 
 # 수식
 
 인라인: $f(x) = ax^2 + bx + c$
@@ -26,3 +26,8 @@ $$
 def hello():
     print("안녕하세요!")
 ```
+
+# 이미지
+![대체텍스트](/assets/img/posts/example.png)
+_이미지 캡션은 이탤릭체로 이미지 바로 아래 작성_
+``` -->
