@@ -40,11 +40,11 @@ published: true
 
 [PowerLaTeX](https://github.com/allariala/allariala.github.io/releases/download/PowerLaTeX/PowerLaTeX_v1.0.0.zip)
 
-zip 파일의 압축을 해제하면 아래 그림과 같이 Setup.exe 파일이 있고, 악성코드는 없으니 설치하셔도 무방합니다만 걱정되시면 한번 확인해보셔도 좋을 것 같습니다.
+zip 파일의 압축을 해제하면 아래 그림과 같이 src 폴더와 설치를 위한 'PowerLaTeX_Install.bat' 파일이 있습니다. 이 프로그램 하나를 위해서 돈을 내고 인증서를 발급받을 수 없기에 간단하게 레지스트리를 수정한 다음 설치 후 다시 보안을 강화하는 방식으로 구성되어있습니다. 꼭 관리자 모드로 실행해주세요.
 
-![Setup](https://github.com/user-attachments/assets/b7ae1d9d-58d5-45c5-bf91-11024e7b4087)
+![Setup](https://github.com/user-attachments/assets/26f81f5a-d257-4d68-917c-59bade7863f4)
 
-신뢰할 수 없는 개발자? 이런 경고를 허용해주시고 설치하신 뒤 파워포인트를 새로 켜시면 리본 메뉴에 PowerLaTeX가 추가된 모습을 확인할 수 있습니다.
+경고를 허용해주시고 설치하신 뒤 파워포인트를 새로 켜시면 리본 메뉴에 PowerLaTeX가 추가된 모습을 확인할 수 있습니다.
 
 ![Ribbon](https://github.com/user-attachments/assets/1c71502c-8dfd-494b-9905-f35a1cc38f92)
 
