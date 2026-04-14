@@ -3,7 +3,7 @@
 title: "PowerLaTeX: LaTeX 문법을 이용한 파워포인트 수식 편집기"
 date: 2026-04-14 16:00:00 +0900
 categories: [프로젝트]
-tags: [수식편집기], [LaTeX]
+tags: [수식편집기, LaTeX, PowerPoint]
 
 # 설명
 description: "파워포인트를 위한 수식 편집기"
@@ -11,7 +11,7 @@ description: "파워포인트를 위한 수식 편집기"
 # 썸네일
 image:
   path: https://github.com/user-attachments/assets/e3a0d607-16a5-4d45-a235-eae7bc9d43c9
-  alt: "PowerLaTeX"
+#  alt: "PowerLaTeX"
 
 # 설정
 toc: true          # 우측 목차 표시 여부
