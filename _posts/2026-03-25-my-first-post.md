@@ -20,7 +20,7 @@ math: true         # LaTeX 수식 렌더링 (MathJax)
 mermaid: false     # Mermaid 다이어그램 활성화
 
 # 출판
-published: true
+published: false
 ---
 
 ## 소개
