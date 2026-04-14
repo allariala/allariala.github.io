@@ -38,7 +38,7 @@ published: true
 
 프로그램의 배포 파일은 아래 링크를 통해서 다운받으실 수 있습니다.
 
-[PowerLaTeX](https://github.com/allariala/allariala.github.io/releases/tag/PowerLaTeX)
+[PowerLaTeX](https://github.com/allariala/allariala.github.io/releases/download/PowerLaTeX/PowerLaTeX_v1.0.0.zip)
 
 zip 파일의 압축을 해제하면 아래 그림과 같이 Setup.exe 파일이 있고, 악성코드는 없으니 설치하셔도 무방합니다만 걱정되시면 한번 확인해보셔도 좋을 것 같습니다.
 
