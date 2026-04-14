@@ -6,8 +6,8 @@ tags: [수식편집기, LaTeX, PowerPoint]
 
 description: "파워포인트를 위한 수식 편집기"
 
-image:
-  path: https://github.com/user-attachments/assets/e3a0d607-16a5-4d45-a235-eae7bc9d43c9
+#image:
+#  path: https://github.com/user-attachments/assets/e3a0d607-16a5-4d45-a235-eae7bc9d43c9
 
 toc: true
 comments: true
