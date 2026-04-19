@@ -12,7 +12,7 @@ description: "워드와 파워포인트를 위한 수식 편집기"
 toc: true
 comments: true
 math: true
-published: true
+published: false
 ---
 
 ## 소개
